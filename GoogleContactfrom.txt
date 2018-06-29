@@ -1,0 +1,75 @@
+                                    
+                                    
+            <script type="text/javascript">var submitted=false;</script>
+            <iframe name="hidden_iframe" id="hidden_iframe"
+            style="display:none;" onload="if(submitted)
+            {window.location='contact-us-thanks.php';}"></iframe>
+            <form action="https://docs.google.com/forms/d/1Qv-szvP-56d_kg08hliOF63jtMcJE8D-9cADh556s8k/formResponse" method="post"
+            target="hidden_iframe" onsubmit="submitted=true;">                        
+                                    
+                                    
+                                
+                                    <form action="https://docs.google.com/forms/d/1Qv-szvP-56d_kg08hliOF63jtMcJE8D-9cADh556s8k/formResponse" method="POST" id="ss-form" target="_self" class="form-wrapper" onsubmit=""  class="form-wrapper">
+
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-xs-7">
+                                                    <label for="name">
+                                                        Name *
+                                                    </label>
+                                                    <!--<input type="text" id="name" name="name" class="form-control" data-errmsg="Name is required."
+                                                           minlength="2" placeholder="Your Name" required/>-->
+                                                    <input type="text" name="entry.1402972829"  value=""  class="form-control" id="entry_1402972829" dir="auto" aria-label="Name  Please type alphabets only." aria-required="true" required="" pattern=".*.*" title="Please type alphabets only.">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-xs-7">
+                                                    <label for="email">
+                                                        Email *
+                                                    </label>
+                                                    <!--<input type="text" id="email" name="email" class="form-control" data-errmsg="Email is required."
+                                                           minlength="2" placeholder="Your Email" required/>-->
+                                                    <input type="email" name="entry.1947258195" value="" class="form-control" id="entry_1947258195" dir="auto" aria-label="Email  Please enter a valid Email." aria-required="true" required="" title="Please enter a valid Email.">
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-xs-7">
+                                                    <label for="sub">
+                                                        Phone Number
+                                                    </label>
+                                                    <input type="text" name="entry.834725801" value="" class="form-control" placeholder="" id="entry_834725801" dir="auto" aria-label="Phone Number  " aria-required="true" required="" title="">
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-xs-7">
+                                                    <label for="comments">
+                                                        Message *
+                                                    </label>
+                                                    <!--<textarea id="comments" name="comments" class="form-control" data-errmsg="Message is required."
+                                                              placeholder="Your Message" rows="3" required></textarea>-->
+                                                     <textarea name="entry.102721089" rows="8" cols="0" class="form-control" id="entry_102721089" dir="auto" aria-label="Message  "></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-2 col-sm-2 offset2">
+                                                
+                                                <button type="submit" name="contact-form" id="contactButton" value="Submit" class="btn btn-sm btn-primary"> Submit </button>  
+                                            </div>
+                                        </div>
+                                                                                
+                                       
+
+                                    </form>   
